@@ -27,6 +27,8 @@ in this section. If your library is passive and has no API, simply omit this
 section.
 -->
 
+See the original thread for usage instructions.
+
 ## Testing
 
 <!--
